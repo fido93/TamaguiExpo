@@ -5,7 +5,7 @@ It features custom UI components built using the **Tamagui** component library.
 
 ## 🛠 Tech Stack
 
-- [Expo SDK 52](https://blog.expo.dev/expo-sdk-52-2d4c540f4f87)
+- [Expo SDK 52](https://docs.expo.dev/)
 - [React Native](https://reactnative.dev/)
 - [Tamagui](https://tamagui.dev/) (for UI components)
 
