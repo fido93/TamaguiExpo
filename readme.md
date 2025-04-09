@@ -26,11 +26,11 @@ cd your-repo-name
 
 ### Install dependencies
 
+```
 yarn install
-
-# or
-
+or
 npm install
+```
 
 ### Start the development server
 
