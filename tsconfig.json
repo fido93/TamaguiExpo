@@ -1,9 +1,10 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
-    "strict": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strict": false,
     "jsx": "react-jsx",
-
     "baseUrl": ".",
     "paths": {
       "~/*": ["*"]
